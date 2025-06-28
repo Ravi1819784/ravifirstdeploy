@@ -15,7 +15,7 @@ const About = () => {
         experiences.
       </p>
 
-      <img src="src/assets/Images/gibli-boy.jpg" alt="" />
+      <img src="/Images/gibli-boy.jpg" alt="" />
 
       
       </center>

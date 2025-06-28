@@ -48,7 +48,7 @@ const Projects = () => {
         <div className="age-video">      <li>
           <strong>Age Calculator: </strong>
           <div className="age-video-text"> <video controls>
-                  <source src="src/assets/videos/ravi-age-calculator.mp4" type="video/mp4" />
+                  <source src="/videos/ravi-age-calculator.mp4" type="video/mp4" />
                 </video>
           <p>
             The Age Calculator using JavaScript is a simple web application that
@@ -63,7 +63,7 @@ const Projects = () => {
           <strong>Calculator: </strong>
 
               <div className="age-video-text"> <video controls>
-                  <source src="src/assets/videos/ravi-calculator.mp4" type="video/mp4" />
+                  <source src="/videos/ravi-calculator.mp4" type="video/mp4" />
                 </video>
           <p>
             A JavaScript calculator is a web-based application that allows users
