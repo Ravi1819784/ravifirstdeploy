@@ -1,13 +1,13 @@
 import React, { useRef } from 'react';
 import "./App.css"
-import Contact from './Pages/Contact';
-import Achievements from './Pages/Achievements';
-import Education from './Pages/Education';
-import Experience from './Pages/Experience';
-import Skills from './Pages/Skills';
+import Contact from './pages/Contact';
+import Achievements from './pages/Achievements';
+import Education from './pages/Education';
+import Experience from './pages/Experience';
+import Skills from './pages/Skills';
 import Projects from './Pages/Projects';
-import About from './Pages/About';
-import Home from './Pages/HOme';
+import About from './pages/About';
+import Home from './pages/HOme';
 import Footer from './Components/Footer';
 import Header from './Components/Header';
 
