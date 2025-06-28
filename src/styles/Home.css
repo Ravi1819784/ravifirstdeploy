@@ -1,0 +1,26 @@
+.home {
+  padding: 2rem;
+  text-align: center;
+      /* min-height: 75vh; */
+   
+}
+
+.home h1 {
+  font-size: 2.5rem;
+  color: #2c3e50;
+}
+
+.home p {
+  font-size: 1.2rem;
+  color: #555;
+}
+
+@media (max-width: 600px) {
+  .home h1 {
+    font-size: 1.8rem;
+  }
+
+  .home p {
+    font-size: 1rem;
+  }
+}

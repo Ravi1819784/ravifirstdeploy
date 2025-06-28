@@ -1,0 +1,23 @@
+.experience {
+  padding: 2rem;
+   margin-inline: 30px;
+}
+
+.experience h2{
+     font-size: 2rem;
+}
+
+.exp-item {
+  padding: 1rem;
+  border-left: 4px solid #3498db;
+}
+
+.exp-item p{
+      font-size: 1.2rem;
+}
+@media (max-width: 600px) {
+  .exp-item {
+    font-size: 0.95rem;
+    padding: 0.8rem;
+  }
+}

@@ -1,0 +1,24 @@
+.skills {
+  padding: 2rem;  
+  margin-inline: 30px;
+}
+
+.skills h2 {
+  color: #8e44ad;
+  font-size: 1.8rem;
+}
+
+.skills ul {
+  padding-left: 1.2rem;
+}
+
+.skills li {
+  margin: 0.5rem 0;
+    font-size: 1.2rem;
+}
+
+@media (max-width: 600px) {
+  .skills li {
+    font-size: 1rem;
+  }
+}

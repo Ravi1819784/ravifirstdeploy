@@ -1,0 +1,22 @@
+.education {
+  padding: 2rem;
+    margin-inline: 30px;
+}
+
+.education h2{
+     font-size: 2rem;
+}
+.edu-item {
+  padding: 1rem;
+  border-left: 4px solid #27ae60;
+}
+
+.edu-item p{
+      font-size: 1.2rem;
+}
+@media (max-width: 600px) {
+  .edu-item {
+    font-size: 0.95rem;
+    padding: 0.8rem;
+  }
+}

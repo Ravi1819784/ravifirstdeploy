@@ -1,0 +1,30 @@
+.about {
+  padding: 2rem;
+  background-color: #f5f5f5;
+        /* min-height: 75vh; */
+  
+}
+
+.about h2 {
+  color: #456686;
+  font-size: 2rem;
+}
+
+.about p {
+  font-size: 1.2rem;
+  line-height: 1.6;
+  max-width: 1200px;
+}
+.about img{
+  margin-top: 20px;
+  height: 300px;
+  width: 300px;
+  border-radius: 10px;
+}
+
+@media (max-width: 600px) {
+  .about p {
+    font-size: 0.9rem;
+    font-size: 1rem;
+  }
+}

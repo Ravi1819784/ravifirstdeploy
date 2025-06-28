@@ -1,0 +1,40 @@
+.projects {
+  padding: 2rem;
+    margin-inline: 30px;
+}
+
+.projects h2 {
+  color: #16a085;
+  font-size: 1.8rem;
+}
+
+.projects ul {
+  padding-left: 20px;
+}
+
+.projects li {
+  margin-bottom: 0.5rem;
+    font-size: 1.2rem;
+}
+.age-video-text{
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.age-video-text video{
+  height: 400px;
+  width: 90%;
+  border-radius: 10px;
+  margin-top: 40px;
+}
+
+
+@media (max-width: 600px) {
+  .projects ul {
+    padding-left: 10px;
+  }
+
+  .projects li {
+    font-size: 1rem;
+  }
+}

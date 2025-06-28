@@ -1,0 +1,23 @@
+.achievements {
+  padding: 2rem;
+    margin-inline: 30px;  
+}
+
+.achievements h2 {
+  color: #c0392b;
+   font-size: 2rem;
+}
+
+.achievements ul {
+  padding-left: 20px;
+}
+
+.achievements ul li{
+     font-size: 1.2rem;
+}
+
+@media (max-width: 600px) {
+  .achievements li {
+    font-size: 0.95rem;
+  }
+}
