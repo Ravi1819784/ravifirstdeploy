@@ -7,7 +7,7 @@ import Experience from './pages/Experience';
 import Skills from './pages/Skills';
 import Projects from './pages/Projects';
 import About from './pages/About';
-import Home from './pages/HOme';
+import Home from './pages/Home';
 import Footer from './components/Footer';
 import Header from './components/Header';
 
